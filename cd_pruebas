@@ -1,0 +1,46 @@
+6810a3364dc2a0cfcc9995711bb2b138  firma_jcmm/1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa.zip
+578ea07e41a34544f9259c39fd0661a1  pdf_cpia-zip/pdf_CPIA.zip
+4beadf1abf996ef12d599b9e70ade0f1  prosesados/prosesados_zip.zip
+827b5a98ae378e8fb93c39c827ec0784  firma_jcmm/firma_JCMM.zip
+32f0ccdee7aa9c9532b02d5ba2d05b69  firma_jcmm/export-Jhosman9090-1789256993.json.gz
+32f0ccdee7aa9c9532b02d5ba2d05b69  firma_jcmm/export-Jhosman9090-1789257014.json.gz
+6810a3364dc2a0cfcc9995711bb2b138  firma_jcmm/1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa.zip
+653afe802e43fce8a9a1a83b786fe470  firma_jcmm/evidencia.zip
+c78390b1110bba19e6e843d472844ed1  firma_jcmm/https:--github.com-Jhosman9090.zip
+https://github.com/Jhosman9090/Enlaces-de-pruebas-/commit/cd70f7713769810dee53c4803e9e42dd0e57f15f
+{
+ "huella_teoria_original":
+"1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa1ed4",
+ "huella_certificacion_final":
+"1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa1ed4B5690EEEB
+B9521945caa2ee54dbb1c52592e907a6f32e5dbebe6afae3a5b69bb3ac4f1397fbb0e6b734b
+965f70e374b1723390414a4c86efad21cc0a1a2b2d63c4158d2d",
+ "autor": "Jhosman Carlos Martínez Morales",
+ "fecha": "2025-10-29",
+ "nota": "CERTIFICACIÓN DE AUTORÍA INTELECTUAL ÚNICA. La línea de tiempo
+completa del desarrollo (incluyendo hitos intermedios) está verificada por los Hashes de
+GitHub.",
+ "propiedad_intelectual": {
+  "titular": "Jhosman Carlos Martínez Morales",
+  "fecha_creacion_codigo_original": "2025-09-28",
+  "fecha_integracion_codigo_johnson": "2025-10-01",
+  "hash_certificacion_final":
+"1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa1ed4B5690EEEB
+B9521945caa2ee54dbb1c52592e907a6f32e5dbebe6afae3a5b69bb3ac4f1397fbb0e6b734b
+965f70e374b1723390414a4c86efad21cc0a1a2b2d63c4158d2d",
+  "plataforma_validacion": "GitHub"
+},
+"codigo_original": {
+ "session_scope": "temporary_only",
+  "theories": {
+   "TPI": {                      
+    "name": "Teoría de la Pregunta Infinita",
+    "estado": "certificada"           
+   },            
+   "TB": {            
+    "name": "Teoría de Burbujas",           
+    "estado": "certificada"                     
+   }
+  }
+ }
+}
